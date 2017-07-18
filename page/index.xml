@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IRONHEART</title>
-    <link>https://massmans.github.io/ironheat/</link>
-    <description>Recent content on IRONHEART</description>
+    <title>Page on IRONHEART</title>
+    <link>https://massmans.github.io/ironheat/page/</link>
+    <description>Recent content in Page on IRONHEART</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>All rights reserved 2016-2017</copyright>
     
-	<atom:link href="https://massmans.github.io/ironheat/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://massmans.github.io/ironheat/page/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>В чем прикол? Фишки инъекционных препаратов</title>
-      <link>https://massmans.github.io/ironheat/post/liquid-bit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://massmans.github.io/ironheat/post/liquid-bit/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://massmans.github.io/ironheat/injectors/&#34;&gt;Уколы&lt;/a&gt;&lt;/strong&gt; хорошо усиливают плюсы простой связки. Разные эстеры обеспечивают оптимальные количества в системе. Уколы наливают химика драйвом. Инжекты не токсичные и безопасны.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>Допинг в ампулах. ЧАВО для ньюбегиннера</title>
